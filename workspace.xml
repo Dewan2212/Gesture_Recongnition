@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc0505d5-da71-42a7-a06f-0114ac724daf" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="30xSCgZpCWCKnja1NsKMnM8IYt5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.00_relabel_quat_to_labels.executor": "Run",
+    "Python.01_make_windows_and_features.executor": "Run",
+    "Python.Ensemble_GUI.executor": "Run",
+    "Python.Example_GUI.executor": "Run",
+    "Python.Final_GUI.executor": "Run",
+    "Python.Final_GUI_2.executor": "Run",
+    "Python.Fourth_model.executor": "Run",
+    "Python.Hand_tracking_1.executor": "Run",
+    "Python.Labelling.executor": "Run",
+    "Python.Model.executor": "Run",
+    "Python.New_GUI.executor": "Run",
+    "Python.New_hand_tracking.executor": "Run",
+    "Python.New_hand_tracking_update.executor": "Run",
+    "Python.New_hand_tracking_update_2.executor": "Run",
+    "Python.New_model_1.executor": "Run",
+    "Python.New_model_1_grouped.executor": "Run",
+    "Python.New_model_2.executor": "Run",
+    "Python.New_model_2_grouped.executor": "Run",
+    "Python.New_model_3.executor": "Run",
+    "Python.New_model_4.executor": "Run",
+    "Python.New_model_4_grouped.executor": "Run",
+    "Python.Second_Model.executor": "Run",
+    "Python.Simulation.executor": "Run",
+    "Python.Third_model.executor": "Run",
+    "Python.app_ensemble_gui.executor": "Run",
+    "Python.app_ensemble_gui_2.executor": "Run",
+    "Python.app_ensemble_gui_3.executor": "Run",
+    "Python.bal_gui_pd.executor": "Run",
+    "Python.compare_models_report.executor": "Run",
+    "Python.conver_models.executor": "Run",
+    "Python.csv divider.executor": "Run",
+    "Python.desk_ensemble.executor": "Run",
+    "Python.emg_ensemble_gui_segments.executor": "Run",
+    "Python.emg_ensemble_ultimate_fixed.executor": "Run",
+    "Python.emg_ensemble_ultimate_subproc.executor": "Run",
+    "Python.emg_ensemble_ultra.executor": "Run",
+    "Python.emg_gui_merged_no_heatmap_with_images.executor": "Run",
+    "Python.emg_gui_predictor_ensemble_safe.executor": "Run",
+    "Python.emg_segments_background_gui.executor": "Run",
+    "Python.fdf.executor": "Run",
+    "Python.glove_1dcnn.executor": "Run",
+    "Python.glove_GUI.executor": "Run",
+    "Python.inspect_npy.executor": "Run",
+    "Python.label_recorder.executor": "Run",
+    "Python.live_recorder.executor": "Run",
+    "Python.load.executor": "Run",
+    "Python.load_du_asl.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.main_3.executor": "Run",
+    "Python.recorder_gui.executor": "Run",
+    "Python.recorder_gui_cal2.executor": "Run",
+    "Python.self_balancing.executor": "Run",
+    "Python.send_cmd.executor": "Run",
+    "Python.simulation_2.executor": "Run",
+    "Python.simulation_new.executor": "Run",
+    "Python.train_1dcnn_with_reports.executor": "Run",
+    "Python.train_cnn.executor": "Run",
+    "Python.train_mlp.executor": "Run",
+    "Python.train_mlp_with_reports.executor": "Run",
+    "Python.train_transformer.executor": "Run",
+    "Python.train_transformer_with_reports.executor": "Run",
+    "Python.train_xgb.executor": "Run",
+    "Python.train_xgbosst_with_reports.executor": "Run",
+    "Python.udp_ahrs_madgwick.executor": "Run",
+    "Python.udp_ahrs_validate.executor": "Run",
+    "Python.udp_plotter.executor": "Run",
+    "Python.udp_receive_imu.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Projects/EMG_Project/Raw Data",
+    "settings.editor.selected.configurable": "dev.micropythontools.intellij.configurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\EMG_Project\Raw Data" />
+      <recent name="C:\Users\sa245\PycharmProjects\PythonProject\EMG Project" />
+      <recent name="C:\Users\sa245\PycharmProjects\PythonProject\EMG Project\models" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc0505d5-da71-42a7-a06f-0114ac724daf" name="Changes" comment="" />
+      <created>1754567604336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754567604336</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ensemble_GUI.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
